@@ -16,7 +16,7 @@ spec:
   targetNamespace: production
   values:
     image:
-      tag: 2.9.18
+      tag: 2.9.19
     ingress:
       host: devops-toolkit..nip.io
 
